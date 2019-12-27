@@ -1,0 +1,11 @@
+/Pods
+/Podfile.lock
+/AEPixi.xcodeproj/xcuserdata
+/AEPixi.xcodeproj/project.xcworkspace/xcuserdata
+/AEPixi.xcworkspace/xcuserdata
+/Android/bin/
+/Android/gen/
+/Android/obj/
+/Android/libs/
+/Android/.cproject
+

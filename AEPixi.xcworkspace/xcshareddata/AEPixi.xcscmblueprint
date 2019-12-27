@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fbfdb924-e3ed-4eb9-8958-81a77ecbdd9a++8766",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fbfdb924-e3ed-4eb9-8958-81a77ecbdd9a++8766" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fbfdb924-e3ed-4eb9-8958-81a77ecbdd9a++8766" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C077F576-3636-4615-931C-CCE6D701375E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fbfdb924-e3ed-4eb9-8958-81a77ecbdd9a++8766" : "AEPixi\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AEPixi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AEPixi.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.develop.taobao.net\/repos\/appengine",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fbfdb924-e3ed-4eb9-8958-81a77ecbdd9a++8766"
+    }
+  ]
+}
